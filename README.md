@@ -22,3 +22,15 @@ Other teams would be good to watch play
 
 
 [Click here to go to About me Page](\AboutMe.md)
+
+***
+## table Section
+
+The following table describes why and how many days you should the visit the following countries
+
+|Country |Reason  | Days to spend|
+|--- | --- | ---|
+|India|India has different cultures|30|
+|US|Us is one of the most developed countries|40|
+|Dubai|Dubai has the tallest building called Burj Khalifa also we can go skiing in the desert|35|
+|Switzerland|Switzerland has the amazing weather, beautifull mountains and good food.|30|
