@@ -24,7 +24,7 @@ Other teams would be good to watch play
 [Click here to go to About me Page](\AboutMe.md)
 
 ***
-## table Section
+## Table Section
 
 The following table describes why and how many days you should the visit the following countries
 
@@ -34,3 +34,11 @@ The following table describes why and how many days you should the visit the fol
 |US|Us is one of the most developed countries|40|
 |Dubai|Dubai has the tallest building called Burj Khalifa also we can go skiing in the desert|35|
 |Switzerland|Switzerland has the amazing weather, beautifull mountains and good food.|30|
+
+***
+
+## Funny Quotes
+
+> The difference between stupidity and genius is that genius has its limits. -*Albert Einstein*
+
+> The only way to keep your health is to eat what you don't want, drink what you don't like, and do what you'd rather not. -*Mark Twain* 
