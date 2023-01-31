@@ -13,3 +13,9 @@ Cricket is one of the best games for audience, especially for **T20 format** the
 1. Virendar Sehwag
 2. SuryaKumar Yadav
 3. Virat Kohli
+
+Other teams would be good to watch play
+
+* Team Australia
+* Team South Africa
+* Team Newzealand 
