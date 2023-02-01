@@ -42,3 +42,33 @@ The following table describes why and how many days you should the visit the fol
 > The difference between stupidity and genius is that genius has its limits. -*Albert Einstein*
 
 > The only way to keep your health is to eat what you don't want, drink what you don't like, and do what you'd rather not. -*Mark Twain* 
+
+***
+
+## Code fencing
+
+### Relavant question in stack over flow
+> Underline certain words using jquery 
+[Quick link](https://stackoverflow.com/questions/10930424/underline-certain-words-using-jquery)
+
+```
+$('h1').each(function() {
+
+	var words = $(this).text().split(' ');
+
+	$(this).empty().html(function() {
+
+		for (i = 0; i < words.length; i++) {
+			if (i == 0) {
+				$(this).append('<span>' + words[i] + '</span>');
+			} else {
+				$(this).append(' <span>' + words[i] + '</span>');
+			}
+		}
+	
+	});
+
+});
+```
+
+[quick-link for the snippet source](https://css-tricks.com/snippets/jquery/underline-individual-words/)
