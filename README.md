@@ -22,7 +22,6 @@ Other teams would be good to watch play
 
 
 **[Click here to go to About me Page](AboutMe.md)**
-[Click here to go to About me Page](\AboutMe.md)
 
 ***
 ## Table Section
@@ -50,7 +49,7 @@ The following table describes why and how many days you should the visit the fol
 
 ### Relavant question in stack over flow
 > Underline certain words using jquery 
-[Quick link](https://stackoverflow.com/questions/10930424/underline-certain-words-using-jquery)
+<https://stackoverflow.com/questions/10930424/underline-certain-words-using-jquery>
 
 ```
 $('h1').each(function() {
@@ -72,4 +71,4 @@ $('h1').each(function() {
 });
 ```
 
-[quick-link for the snippet source](https://css-tricks.com/snippets/jquery/underline-individual-words/)
+quick-link for the snippet source <https://css-tricks.com/snippets/jquery/underline-individual-words/>
