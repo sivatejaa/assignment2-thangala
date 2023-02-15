@@ -14,6 +14,14 @@ Cricket is one of the best games for audience, _especially_ for **T20 format** t
 2. SuryaKumar Yadav
 3. Virat Kohli
 
+1. Go to the store
+2. Buy Food
+	1. Rice (indented.. So start at 1)
+	6. Beans
+1. Come home
+2. After coming home
+3. And this should be the final line.
+
 Other teams would be good to watch play
 
 * Team Australia
