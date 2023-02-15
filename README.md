@@ -41,7 +41,7 @@ The following table describes why and how many days you should the visit the fol
 
 > The difference between stupidity and genius is that genius has its limits. -*Albert Einstein*
 
->> The only way to keep your health is to eat what you don't want, drink what you don't like, and do what you'd rather not. -*Mark Twain* 
+> The only way to keep your health is to eat what you don't want, drink what you don't like, and do what you'd rather not. -*Mark Twain* 
 
 ***
 
